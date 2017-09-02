@@ -16,7 +16,7 @@ public class Calculator {
   return sum of two integers
    */
   public int sum(int a, int b) {
-    return Integer.parseInt(""+(a+b)+"");
+    return a+b;
   }
 
 }
